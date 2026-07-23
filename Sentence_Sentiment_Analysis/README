@@ -1,0 +1,4 @@
+This is a program that analyzes the sentiment of a given text. It reads the text from an input file and identifies individual sentences. 
+Using the files containing lists of positive and negative words, this program categorizes each sentence as either "Positive", "Negative", or 
+"Neutral" based on the words it contains. The final output, consisting of each sentence and its corresponding sentiment label, is be written 
+to a separate output file which is included in this folder. 

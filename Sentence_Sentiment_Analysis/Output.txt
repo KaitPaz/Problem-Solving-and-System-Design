@@ -1,0 +1,9 @@
+Positive: I had a wonderful day today!
+Positive: The weather was beautiful, and I spent time with my friends.
+Positive: We went to the park, and it was so much fun.
+Positive: I'm feeling grateful for all the good things in my life.
+Neutral: However, I'm also a bit worried about the upcoming exam.
+Negative: I'm not sure if I'm prepared enough, and it's making me anxious.
+Negative: I need to study more, but I'm also feeling tired.
+Positive: Overall, though, I'm happy with how things are going.
+Positive: I'm surrounded by amazing people, and I'm excited about the future.
